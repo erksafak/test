@@ -1,4 +1,3 @@
 # test
-## hello world
-### have a good day
-
+## hello world!
+### have a good day!
