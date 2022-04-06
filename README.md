@@ -1,3 +1,3 @@
 # test
 ## hello world!
-### have a good day!
+### have a good day for good people!
